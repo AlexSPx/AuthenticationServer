@@ -1,0 +1,3 @@
+[submodule "AuthenticationServer"]
+	path = AuthenticationServer
+	url = https://github.com/AlexSPx/AuthenticationServer
