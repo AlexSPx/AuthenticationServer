@@ -1,0 +1,20 @@
+
+r	java:S127d"XRefactor the code in order to not assign to this loop counter from within the loop body.(Çğ¡ºøÿÿÿÿ
+m	java:S127e"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ç¾Ë
+m	java:S127f"XRefactor the code in order to not assign to this loop counter from within the loop body.(şäé¼
+r	java:S127g"XRefactor the code in order to not assign to this loop counter from within the loop body.(³è³¼ùÿÿÿÿ
+<	java:S131c""Add a default case to this switch.(ÈéØıûÿÿÿÿ
+M
+java:S1068"2Remove this unused "ALREADY_EXISTS" private field.(½¥»Íúÿÿÿÿ
+K
+java:S1068"0Remove this unused "UNAUTHORIZED" private field.(‰æ¸™üÿÿÿÿ
+M
+java:S1068"2Remove this unused "RESET_PASSWORD" private field.(­åÿ¹ûÿÿÿÿ
+E
+java:S1068"*Remove this unused "LOGOUT" private field.(ìÖª¾ıÿÿÿÿ
+M
+java:S1068 "2Remove this unused "ADD_ADMIN_USER" private field.(€•„‚ùÿÿÿÿ
+K
+java:S1068!"5Remove this unused "REMOVE_ADMIN_USER" private field.(ÜÌå
+E
+java:S1068""/Remove this unused "DELETE_USER" private field.(œ­Ø

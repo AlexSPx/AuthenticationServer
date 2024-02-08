@@ -1,0 +1,16 @@
+
+P
+java:S1141."5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+d
+java:S2259<"IA "NullPointerException" could be thrown; "clientInput" is nullable here.(–‡©³úÿÿÿÿ
+y
+java:S1450"^Remove the "isServerWorking" field and declare it as a local variable in the relevant methods.(Š¯úÿÿÿÿÿ
+r
+java:S1450"WRemove the "selector" field and declare it as a local variable in the relevant methods.(ú³à«øÿÿÿÿ
+g
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú¡­,
+E	java:S106&"+Replace this use of System.out by a logger.(Öœ´çøÿÿÿÿ
+E	java:S106:"+Replace this use of System.out by a logger.(¾’¦Ëùÿÿÿÿ
+@	java:S106E"+Replace this use of System.out by a logger.(¨¿àì
+>	java:S108K")Either remove or fill this block of code.(ï­£Ä
+=	java:S108P")Either remove or fill this block of code.(Éò§+

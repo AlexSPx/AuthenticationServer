@@ -1,0 +1,22 @@
+
+«
+java:S1130"Remove the declaration of thrown exception 'bg.sofia.uni.fmi.mjt.authserver.exception.UserNotFound', as it cannot be thrown from method's body.(ÜÉĞªüÿÿÿÿ
+µ
+java:S1130"™Remove the declaration of thrown exception 'bg.sofia.uni.fmi.mjt.authserver.exception.WrongPasswordException', as it cannot be thrown from method's body.(ÜÉĞªüÿÿÿÿ
+°
+java:S1130"”Remove the declaration of thrown exception 'bg.sofia.uni.fmi.mjt.authserver.exception.UserAlreadyExists', as it cannot be thrown from method's body.(ÜÉĞªüÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÜÉĞªüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‘Äš®üÿÿÿÿ
+i
+java:S1128"SRemove this unused import 'bg.sofia.uni.fmi.mjt.authserver.command.CommandCreator'.(ó“ÿÀ
+o
+java:S1128"TRemove this unused import 'bg.sofia.uni.fmi.mjt.authserver.command.CommandExecutor'.(’¢Ïúÿÿÿÿ
+d
+java:S1128"NRemove this unused import 'bg.sofia.uni.fmi.mjt.authserver.response.Response'.(Ñ­¨ı
+f
+java:S1128	"PRemove this unused import 'bg.sofia.uni.fmi.mjt.authserver.user.PasswordHasher'.(¿º‘«
+^
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾şÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'java.security.spec.InvalidKeySpecException'.(ëóÅëüÿÿÿÿ
